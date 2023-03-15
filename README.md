@@ -1,1 +1,1 @@
-Link: https://akumq.github.io/
+Link: i dont have sorry

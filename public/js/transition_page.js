@@ -4,15 +4,14 @@ content_page1 = [
     <h3><strong>10 Mars XXX</strong></h3>
         <p>Aujourd’hui mère m’as offert ce carnet, je suis très heureux, depuis que j’ai appris à écrire j’ai toujours souhaité obtenir de quoi m'exprimer, et de cette façon je pense pouvoir m'exprimer</p> 
     <h3><strong>11 Mars XXX</strong></h3>
-        <p>Mince, j'étais si excité que j’ai oublié de me présenter je suis Konrad Gessner, j’ai 8 ans, je souhaite devenir un soldat de l’humanité pour protéger ma mère, elle m’as élevé seul et travaille dur tous les jours pour pouvoir subvenir a nos besoin, la vie a Utopia n’est pas simple et très cher, je me demande d’ailleurs pourquoi elle veut rester ici dans cette maison miteuse, un amis m’as dit que pour le même prix je pouvais avoir une grande maison a Shiganshina, mais peut importe je suis heureux actuellement même si je n’ai pas vraiment beaucoup d’amis, la majorité ici son riche et ne souhaite pas parler avec moi, apparemment une fille m’as dit que son père refusait qu’elle parle a un fils de catin, je ne sais pas vraiment ce que sa signifie et ma mère me dit d’ignorer ce genre d’insulte. </p> 
-        <button onclick="PageSuivante(1)">Page Précedente</button></div>
+    <p>Apres etre devenue le major de ma promo je suis rentrer dans le BDE et le CPT ma offert de la viande!Vous vous rendez compte de la VIANDE, ça doit faire au moins 100 siècle que je n’en es pas manger, je suis vraiment heureux, je ne dis pas que la soupe et le pain ne me satisfait pas, c’est juste que manger de la nourriture plus cher c’est souvent meilleurs.</p>
+    <h3><strong>12 Mars XXX</strong></h3>
+    <p>Aujourd'hui nous sommes partit en entrainement,et j'ai battut Werner vous vous rendez WERNER ! Le meilleur a l'épée, moi le petit Azrael battre le meilleur."</p>
+    <button onclick="PageSuivante(1)">Page Précedente</button></div>
     `,
     `
-    <p>Apres etre devenue le major de ma promo je suis rentrer dans le BDE et le CPT ma offert de la viande!Vous vous rendez compte de la VIANDE, ça doit faire au moins 100 siècle que je n’en es pas manger, je suis vraiment heureux, je ne dis pas que la soupe et le pain ne me satisfait pas, c’est juste que manger de la nourriture plus cher c’est souvent meilleurs.</p>
-    <h3><strong>11 Février XXX</strong></h3>
-    <p>
-    Aujourd’hui j’ai 16 ans, ma situation n’as pas réellement changé en 3 ans ça me fait d’ailleurs bizarre de reprendre ce livre, plus jeunes j'étais assez spéciale, bon je vais vous faire un résumé de ses 3 ans. J’ai appris avec le temps qu’elle était le travail de ma mère, je continue à feindre la vérité, ma mère reste persuadée que je ne sais pas. Son métier est simple et m’as permis de comprendre beaucoup de chose concernant ma famille, ma mère passe du temps en compagnie de riche noble et échange d’argent, c’est d’ailleurs surement pour cette raison que ma mère a décidé de s’installer à Utopia, terre remplie de riche noble, tous capable de payer des centaines et des milliers de pièce pour quelque heure en sa compagnie. J’ai également gagner en maturité durant ses 3 ans le monde est cruel et je ne suis plus aussi naïf qu’avant 
-    </p>
+    <h3><strong>15 Mars XXX</strong></h3>
+    <p>Le capitaine m'a tester c'est bien ce que je pensais j'ai une seconde personalité elle se developpe a chaque fois que je suis en danger ou alors que mes amis le sont!il compte sur moi je ne vais pas le decevoir.
     <button onclick="PageSuivante(2)">Page Précedente</button></div>
     `,
     `
@@ -21,8 +20,11 @@ content_page1 = [
 content_page2 = [
     `<h3><strong>Identité</strong></h3><br><p>Nom: Burminghton</p><p>Prenom: Azrael</p><br><p>Lieux de Naissance: Shiganshina</p><p>Date de Naissance: 29 Decembre XXX</p><p>Age: 21 ans</p><br><p>Numéro D'identité: 4929 1049 6131 4085</p><p>Nombre de frère et soeurs: Fils Unique</p><br><p>Lieux de Résidence: Shiganshina</p><p>Evenement Notable:</p><dd> - N/A</dd><img style="width: auto; height: 30%;" src="public/img/Tampon-BS.jpg" alt=""><br><div class="flex-box"><button onclick="PageSuivante(2)">Page Suivante</button></div>`,
     `
-    <h3><strong>13 Février XXX</strong></h3>
+    <h3><strong>13 Mars XXX</strong></h3>
     <p> Aujourd’hui,je suis partit en entrainement avec le BDE,nous somme monter dans les hauteur du camps d'entrainement et nous nous somme entrainer a l'épée,mais ne vous inquitez pas le petit Azrael n'est plus le meme je suis devenue bien plus fort qu'avant j'ai d'ailleur battut Werner en combat.</p>
+    <h3><strong>14 Février XXX</strong></h3>
+    <p>Un homme a ouvert la porte! j'ecris cela maitenant car si un titan rentre c'est la mort assuré pour moi...Papi si je meurt je t'aime...Je suis encore en vie!!!! nous avons fait sortir le titant et avons fait des patrouille,mais malheuresement Traffi c'est fait attaqué part un traitre du battaillon je ne sais pas comment mais j'ai tout oublier je me souvien juste avoir defendu traffi...</p>
+    <button onclick="PageSuivante(3)">Page Suivante</button></div>
     `,
 ];
 
